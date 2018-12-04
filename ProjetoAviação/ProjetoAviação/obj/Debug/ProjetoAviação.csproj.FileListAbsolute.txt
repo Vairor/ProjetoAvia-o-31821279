@@ -1,0 +1,7 @@
+c:\users\31821279\source\repos\ProjetoAviação\ProjetoAviação\bin\Debug\ProjetoAviação.exe.config
+c:\users\31821279\source\repos\ProjetoAviação\ProjetoAviação\bin\Debug\ProjetoAviação.exe
+c:\users\31821279\source\repos\ProjetoAviação\ProjetoAviação\bin\Debug\ProjetoAviação.pdb
+c:\users\31821279\source\repos\ProjetoAviação\ProjetoAviação\obj\Debug\ProjetoAviação.csprojAssemblyReference.cache
+c:\users\31821279\source\repos\ProjetoAviação\ProjetoAviação\obj\Debug\ProjetoAviação.csproj.CoreCompileInputs.cache
+c:\users\31821279\source\repos\ProjetoAviação\ProjetoAviação\obj\Debug\ProjetoAviação.exe
+c:\users\31821279\source\repos\ProjetoAviação\ProjetoAviação\obj\Debug\ProjetoAviação.pdb
